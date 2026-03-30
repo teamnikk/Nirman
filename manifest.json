@@ -1,0 +1,16 @@
+{
+  "name": "ESTRUCTURA 2K26",
+  "short_name": "ESTRUCTURA",
+  "description": "The Ultimate Civil Engineering Fest — Nirmaan Society, DCRUST Murthal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0E1A",
+  "theme_color": "#F59E0B",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
